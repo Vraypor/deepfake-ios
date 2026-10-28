@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.28",
-      "versionDate": "2026-10-28T22:26:51.468Z",
-      "versionDescription": "Songs stop at their own end\n• The iPhone read YouTube's audio as twice as long as it is, so a song played on into another one under its title. Each song now stops at its real length\n\nBuilt from 40c3d5c.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.28/Riff.ipa",
-      "size": 1583331,
+      "version": "0.1.29",
+      "versionDate": "2026-10-28T22:32:53.847Z",
+      "versionDescription": "Remove duplicates\n• A playlist or Liked Songs with the same song in it twice shows a Remove duplicates button under its search, with Undo\n\nBuilt from 8d5202e.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.29/Riff.ipa",
+      "size": 1583605,
       "versions": [
+        {
+          "version": "0.1.29",
+          "buildVersion": "29",
+          "date": "2026-10-28T22:32:53.847Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.29/Riff.ipa",
+          "size": 1583605,
+          "localizedDescription": "Remove duplicates\n• A playlist or Liked Songs with the same song in it twice shows a Remove duplicates button under its search, with Undo\n\nBuilt from 8d5202e."
+        },
         {
           "version": "0.1.28",
           "buildVersion": "28",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.19/Riff.ipa",
           "size": 1475200,
           "localizedDescription": "Built from 63d303c."
-        },
-        {
-          "version": "0.1.18",
-          "buildVersion": "18",
-          "date": "2026-10-28T06:42:03.141Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.18/Riff.ipa",
-          "size": 1467769,
-          "localizedDescription": "Built from 087bf55."
         }
       ]
     }
