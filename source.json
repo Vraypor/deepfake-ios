@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.26",
-      "versionDate": "2026-10-28T22:14:45.824Z",
-      "versionDescription": "Playback log, and the player checks itself\n• Twice a second the player checks that the song playing is the one on screen, and puts it right if not\n• Settings, About, Playback log: if a song still runs into the next one, copy the log there and send it\n\nBuilt from 1b14187.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.26/Riff.ipa",
-      "size": 1576936,
+      "version": "0.1.28",
+      "versionDate": "2026-10-28T22:26:51.468Z",
+      "versionDescription": "Songs stop at their own end\n• The iPhone read YouTube's audio as twice as long as it is, so a song played on into another one under its title. Each song now stops at its real length\n\nBuilt from 40c3d5c.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.28/Riff.ipa",
+      "size": 1583331,
       "versions": [
+        {
+          "version": "0.1.28",
+          "buildVersion": "28",
+          "date": "2026-10-28T22:26:51.468Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.28/Riff.ipa",
+          "size": 1583331,
+          "localizedDescription": "Songs stop at their own end\n• The iPhone read YouTube's audio as twice as long as it is, so a song played on into another one under its title. Each song now stops at its real length\n\nBuilt from 40c3d5c."
+        },
         {
           "version": "0.1.26",
           "buildVersion": "26",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.18/Riff.ipa",
           "size": 1467769,
           "localizedDescription": "Built from 087bf55."
-        },
-        {
-          "version": "0.1.17",
-          "buildVersion": "17",
-          "date": "2026-10-28T06:24:33.572Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.17/Riff.ipa",
-          "size": 1464436,
-          "localizedDescription": "Built from d7c01d3."
         }
       ]
     }
