@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.23",
-      "versionDate": "2026-10-28T18:05:43.926Z",
-      "versionDescription": "Built from fe401ac.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.23/Riff.ipa",
-      "size": 1534182,
+      "version": "0.1.24",
+      "versionDate": "2026-10-28T21:36:29.640Z",
+      "versionDescription": "Built from b21fecb.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.24/Riff.ipa",
+      "size": 1568687,
       "versions": [
+        {
+          "version": "0.1.24",
+          "buildVersion": "24",
+          "date": "2026-10-28T21:36:29.640Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.24/Riff.ipa",
+          "size": 1568687,
+          "localizedDescription": "Built from b21fecb."
+        },
         {
           "version": "0.1.23",
           "buildVersion": "23",
