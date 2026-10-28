@@ -1,0 +1,42 @@
+{
+  "name": "deepfake",
+  "identifier": "com.vraypor.deepfake.source",
+  "subtitle": "deepfake for iPhone",
+  "iconURL": "https://raw.githubusercontent.com/Vraypor/deepfake-ios/main/icon.png",
+  "tintColor": "#399ec6",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "deepfake",
+      "bundleIdentifier": "com.vraypor.riff",
+      "developerName": "Vraypor",
+      "subtitle": "Your music from YouTube Music, no ads",
+      "localizedDescription": "deepfake for iPhone: playlists, Liked Songs, Smart Shuffle, My Wave, lyrics, stats and Wi-Fi sync with deepfake on your computer.",
+      "iconURL": "https://raw.githubusercontent.com/Vraypor/deepfake-ios/main/icon.png",
+      "tintColor": "#399ec6",
+      "category": "entertainment",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
+        }
+      },
+      "version": "0.1.17",
+      "versionDate": "2026-10-28T06:24:33.572Z",
+      "versionDescription": "Built from d7c01d3.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.17/Riff.ipa",
+      "size": 1464436,
+      "versions": [
+        {
+          "version": "0.1.17",
+          "buildVersion": "17",
+          "date": "2026-10-28T06:24:33.572Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.17/Riff.ipa",
+          "size": 1464436,
+          "localizedDescription": "Built from d7c01d3."
+        }
+      ]
+    }
+  ],
+  "news": []
+}
