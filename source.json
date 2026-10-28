@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.30",
-      "versionDate": "2026-10-28T22:40:41.754Z",
-      "versionDescription": "Pair with a QR code, and Sync with Spotify\n• Point the Camera app at the QR code in deepfake's Settings on your computer, tap the banner, and the phone pairs: no address or code to type\n• Playlists have Sync with Spotify, as on desktop: the playlist matches its Spotify namesake, in Spotify's order, with Undo\n\nBuilt from 2ed4df4.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.30/Riff.ipa",
-      "size": 1585102,
+      "version": "0.1.31",
+      "versionDate": "2026-10-28T23:38:03.853Z",
+      "versionDescription": "Sound presets\n• Desktop's presets (slowed + reverb, nightcore, speed up, distortion hard) in Settings, Sound and in the player's ••• menu\n• Presets you saved on the computer come over with sync; Save current makes one here\n\nBuilt from 790474d.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.31/Riff.ipa",
+      "size": 1586509,
       "versions": [
+        {
+          "version": "0.1.31",
+          "buildVersion": "31",
+          "date": "2026-10-28T23:38:03.853Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.31/Riff.ipa",
+          "size": 1586509,
+          "localizedDescription": "Sound presets\n• Desktop's presets (slowed + reverb, nightcore, speed up, distortion hard) in Settings, Sound and in the player's ••• menu\n• Presets you saved on the computer come over with sync; Save current makes one here\n\nBuilt from 790474d."
+        },
         {
           "version": "0.1.30",
           "buildVersion": "30",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.21/Riff.ipa",
           "size": 1520654,
           "localizedDescription": "Built from e3cea5c."
-        },
-        {
-          "version": "0.1.20",
-          "buildVersion": "20",
-          "date": "2026-10-28T07:09:19.958Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.20/Riff.ipa",
-          "size": 1487773,
-          "localizedDescription": "Built from 284e2b4."
         }
       ]
     }
