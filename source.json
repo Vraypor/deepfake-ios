@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.25",
-      "versionDate": "2026-10-28T22:01:29.517Z",
-      "versionDescription": "What's new after updates\n• This screen comes up once after each update, so you can tell it worked\n• Settings, About shows which version you have, and What's new again\n\nBuilt from f233ad6.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.25/Riff.ipa",
-      "size": 1569989,
+      "version": "0.1.26",
+      "versionDate": "2026-10-28T22:14:45.824Z",
+      "versionDescription": "Playback log, and the player checks itself\n• Twice a second the player checks that the song playing is the one on screen, and puts it right if not\n• Settings, About, Playback log: if a song still runs into the next one, copy the log there and send it\n\nBuilt from 1b14187.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.26/Riff.ipa",
+      "size": 1576936,
       "versions": [
+        {
+          "version": "0.1.26",
+          "buildVersion": "26",
+          "date": "2026-10-28T22:14:45.824Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.26/Riff.ipa",
+          "size": 1576936,
+          "localizedDescription": "Playback log, and the player checks itself\n• Twice a second the player checks that the song playing is the one on screen, and puts it right if not\n• Settings, About, Playback log: if a song still runs into the next one, copy the log there and send it\n\nBuilt from 1b14187."
+        },
         {
           "version": "0.1.25",
           "buildVersion": "25",
