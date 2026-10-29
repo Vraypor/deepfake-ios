@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.31",
-      "versionDate": "2026-10-28T23:38:03.853Z",
-      "versionDescription": "Sound presets\n• Desktop's presets (slowed + reverb, nightcore, speed up, distortion hard) in Settings, Sound and in the player's ••• menu\n• Presets you saved on the computer come over with sync; Save current makes one here\n\nBuilt from 790474d.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.31/Riff.ipa",
-      "size": 1586509,
+      "version": "0.1.33",
+      "versionDate": "2026-10-29T05:59:26.364Z",
+      "versionDescription": "Share to Instagram story\n• A song's ••• menu has Share to Instagram story, as on desktop: pick 15 to 40 seconds of it, pick the look, and Share makes a video of the spinning record with that part playing\n• The share sheet opens with the video (Instagram, Save Video); the song's link is copied for Instagram's link sticker\n\nBuilt from 4704466.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.33/Riff.ipa",
+      "size": 1638417,
       "versions": [
+        {
+          "version": "0.1.33",
+          "buildVersion": "33",
+          "date": "2026-10-29T05:59:26.364Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.33/Riff.ipa",
+          "size": 1638417,
+          "localizedDescription": "Share to Instagram story\n• A song's ••• menu has Share to Instagram story, as on desktop: pick 15 to 40 seconds of it, pick the look, and Share makes a video of the spinning record with that part playing\n• The share sheet opens with the video (Instagram, Save Video); the song's link is copied for Instagram's link sticker\n\nBuilt from 4704466."
+        },
         {
           "version": "0.1.31",
           "buildVersion": "31",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.22/Riff.ipa",
           "size": 1533351,
           "localizedDescription": "Built from 4f6bbe0."
-        },
-        {
-          "version": "0.1.21",
-          "buildVersion": "21",
-          "date": "2026-10-28T07:39:20.805Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.21/Riff.ipa",
-          "size": 1520654,
-          "localizedDescription": "Built from e3cea5c."
         }
       ]
     }
