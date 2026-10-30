@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.36",
-      "versionDate": "2026-10-29T06:09:44.209Z",
-      "versionDescription": "Share to Instagram story doesn't close the app\n• Opening Share to Instagram story closed deepfake while it read the song; it reads it another way now\n• Each step of making a story shows in Settings, About, Playback log, in case one goes wrong\n\nBuilt from c2a143b.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.36/Riff.ipa",
-      "size": 1639204,
+      "version": "0.1.37",
+      "versionDate": "2026-10-30T01:12:58.355Z",
+      "versionDescription": "Lock screen fixes, and sync brings more\n• Dragging the lock screen's time bar to the end no longer plays on into another song: the song ends there, and the bar shows the song's real length\n• Tapping the player on the lock screen or home screen should open deepfake\n• Sync brings the songs you saved from album pages on the computer, and the sound it has on (its preset or effects)\n\nBuilt from 3e6b036.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.37/Riff.ipa",
+      "size": 1640678,
       "versions": [
+        {
+          "version": "0.1.37",
+          "buildVersion": "37",
+          "date": "2026-10-30T01:12:58.355Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.37/Riff.ipa",
+          "size": 1640678,
+          "localizedDescription": "Lock screen fixes, and sync brings more\n• Dragging the lock screen's time bar to the end no longer plays on into another song: the song ends there, and the bar shows the song's real length\n• Tapping the player on the lock screen or home screen should open deepfake\n• Sync brings the songs you saved from album pages on the computer, and the sound it has on (its preset or effects)\n\nBuilt from 3e6b036."
+        },
         {
           "version": "0.1.36",
           "buildVersion": "36",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.24/Riff.ipa",
           "size": 1568687,
           "localizedDescription": "Built from b21fecb."
-        },
-        {
-          "version": "0.1.23",
-          "buildVersion": "23",
-          "date": "2026-10-28T18:05:43.926Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.23/Riff.ipa",
-          "size": 1534182,
-          "localizedDescription": "Built from fe401ac."
         }
       ]
     }
