@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.39",
-      "versionDate": "2026-11-02T19:26:11.463Z",
-      "versionDescription": "More word-by-word lyrics, fairer shuffle\n• Lyrics timed word by word for more songs: KuGou is tried when Apple Music has none\n• Shuffle with repeat on no longer starts the next round with a song that just played\n\nBuilt from 0a2270c.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.39/Riff.ipa",
-      "size": 1652242,
+      "version": "0.1.40",
+      "versionDate": "2026-11-02T19:40:54.919Z",
+      "versionDescription": "Tapping the lock screen player opens deepfake\n• The player on the lock screen and in Control Center now belongs to deepfake's own player, so tapping it should bring you into the app\n\nBuilt from 05dddf8.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.40/Riff.ipa",
+      "size": 1654167,
       "versions": [
+        {
+          "version": "0.1.40",
+          "buildVersion": "40",
+          "date": "2026-11-02T19:40:54.919Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.40/Riff.ipa",
+          "size": 1654167,
+          "localizedDescription": "Tapping the lock screen player opens deepfake\n• The player on the lock screen and in Control Center now belongs to deepfake's own player, so tapping it should bring you into the app\n\nBuilt from 05dddf8."
+        },
         {
           "version": "0.1.39",
           "buildVersion": "39",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.28/Riff.ipa",
           "size": 1583331,
           "localizedDescription": "Songs stop at their own end\n• The iPhone read YouTube's audio as twice as long as it is, so a song played on into another one under its title. Each song now stops at its real length\n\nBuilt from 40c3d5c."
-        },
-        {
-          "version": "0.1.26",
-          "buildVersion": "26",
-          "date": "2026-10-28T22:14:45.824Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.26/Riff.ipa",
-          "size": 1576936,
-          "localizedDescription": "Playback log, and the player checks itself\n• Twice a second the player checks that the song playing is the one on screen, and puts it right if not\n• Settings, About, Playback log: if a song still runs into the next one, copy the log there and send it\n\nBuilt from 1b14187."
         }
       ]
     }
