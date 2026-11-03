@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.40",
-      "versionDate": "2026-11-02T19:40:54.919Z",
-      "versionDescription": "Tapping the lock screen player opens deepfake\n• The player on the lock screen and in Control Center now belongs to deepfake's own player, so tapping it should bring you into the app\n\nBuilt from 05dddf8.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.40/Riff.ipa",
-      "size": 1654167,
+      "version": "0.1.43",
+      "versionDate": "2026-11-03T06:48:56.309Z",
+      "versionDescription": "Keeps up with your computer, and much more from it\n• Keeps up with your computer: while deepfake plays there, the player here shows its song and time. Play takes over from that spot, and next, previous and seeking control the computer. The computer does the same while this phone plays\n• Another try at opening deepfake from the lock screen player\n• Wavy progress bar, its knob, text size and Clean up video titles (Settings, Interface); word-by-word lyrics as Gradient or Words (Settings, Lyrics)\n• Lyrics cleaned up: no [Chorus] labels, dots where the music plays alone, backing vocals dimmed. Edit a song's lyrics, or time them by tapping along (the player's ••• menu)\n• History (Your Library), songs pinned to Home, Home in your order and Liked songs in recommendations (Settings, Home)\n• All nine sort orders in playlists, and Liked Songs first in Add to playlist\n• Import from a YouTube, YouTube Music, SoundCloud or Apple Music link (the import button in Your Library), and plain YouTube as a search source\n• A-B loop and speakers and headphones on the player; your own cover for a song; the computer's app icons (Settings, Interface)\n\nBuilt from 87bfd30.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.43/Riff.ipa",
+      "size": 2864796,
       "versions": [
+        {
+          "version": "0.1.43",
+          "buildVersion": "43",
+          "date": "2026-11-03T06:48:56.309Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.43/Riff.ipa",
+          "size": 2864796,
+          "localizedDescription": "Keeps up with your computer, and much more from it\n• Keeps up with your computer: while deepfake plays there, the player here shows its song and time. Play takes over from that spot, and next, previous and seeking control the computer. The computer does the same while this phone plays\n• Another try at opening deepfake from the lock screen player\n• Wavy progress bar, its knob, text size and Clean up video titles (Settings, Interface); word-by-word lyrics as Gradient or Words (Settings, Lyrics)\n• Lyrics cleaned up: no [Chorus] labels, dots where the music plays alone, backing vocals dimmed. Edit a song's lyrics, or time them by tapping along (the player's ••• menu)\n• History (Your Library), songs pinned to Home, Home in your order and Liked songs in recommendations (Settings, Home)\n• All nine sort orders in playlists, and Liked Songs first in Add to playlist\n• Import from a YouTube, YouTube Music, SoundCloud or Apple Music link (the import button in Your Library), and plain YouTube as a search source\n• A-B loop and speakers and headphones on the player; your own cover for a song; the computer's app icons (Settings, Interface)\n\nBuilt from 87bfd30."
+        },
         {
           "version": "0.1.40",
           "buildVersion": "40",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.29/Riff.ipa",
           "size": 1583605,
           "localizedDescription": "Remove duplicates\n• A playlist or Liked Songs with the same song in it twice shows a Remove duplicates button under its search, with Undo\n\nBuilt from 8d5202e."
-        },
-        {
-          "version": "0.1.28",
-          "buildVersion": "28",
-          "date": "2026-10-28T22:26:51.468Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.28/Riff.ipa",
-          "size": 1583331,
-          "localizedDescription": "Songs stop at their own end\n• The iPhone read YouTube's audio as twice as long as it is, so a song played on into another one under its title. Each song now stops at its real length\n\nBuilt from 40c3d5c."
         }
       ]
     }
