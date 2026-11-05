@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.45",
-      "versionDate": "2026-11-03T07:45:54.342Z",
-      "versionDescription": "The rest of the computer: Spotify clean-up, visualizer, skip silence\n• Check liked songs against Spotify (the check button on Liked Songs): wrong matches, ones at another length, likes missing here and songs only liked here, each with Find, Another way, Remove or Keep; Swap censored copies for explicit songs\n• Songs a Spotify import or sync couldn't find: Find, then pick an upload. An artist picked under another name is remembered, and the computer's names come over too\n• Spotify songs are found as on the computer: by their recording code, explicit versions for explicit songs, plain YouTube when YouTube Music has nothing\n• Visualizer under the cover (Settings, Interface), Skip silence and Pitch (Settings, Playback)\n• Copy Spotify link, song.link from Spotify, and Save or send the file for downloaded songs, in a song's menu\n• Import listening history from Spotify's data download (Settings, Storage)\n• Pinned songs and the order of Home sync with the computer\n\nBuilt from dd357e6.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.45/Riff.ipa",
-      "size": 2878965,
+      "version": "0.1.46",
+      "versionDate": "2026-11-05T20:22:46.037Z",
+      "versionDescription": "The midnight comes alive\n• The playing song's cover lights the player, the mini player, the wave card and the lyrics in its own color\n• A new song blooms in, buttons spring under your finger, a glowing line glides along the tab bar and the stars twinkle\n• With the visualizer on (Settings, Interface), the light breathes with the bass\n\nBuilt from 11437a1.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.46/Riff.ipa",
+      "size": 2985451,
       "versions": [
+        {
+          "version": "0.1.46",
+          "buildVersion": "46",
+          "date": "2026-11-05T20:22:46.037Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.46/Riff.ipa",
+          "size": 2985451,
+          "localizedDescription": "The midnight comes alive\n• The playing song's cover lights the player, the mini player, the wave card and the lyrics in its own color\n• A new song blooms in, buttons spring under your finger, a glowing line glides along the tab bar and the stars twinkle\n• With the visualizer on (Settings, Interface), the light breathes with the bass\n\nBuilt from 11437a1."
+        },
         {
           "version": "0.1.45",
           "buildVersion": "45",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.31/Riff.ipa",
           "size": 1586509,
           "localizedDescription": "Sound presets\n• Desktop's presets (slowed + reverb, nightcore, speed up, distortion hard) in Settings, Sound and in the player's ••• menu\n• Presets you saved on the computer come over with sync; Save current makes one here\n\nBuilt from 790474d."
-        },
-        {
-          "version": "0.1.30",
-          "buildVersion": "30",
-          "date": "2026-10-28T22:40:41.754Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.30/Riff.ipa",
-          "size": 1585102,
-          "localizedDescription": "Pair with a QR code, and Sync with Spotify\n• Point the Camera app at the QR code in deepfake's Settings on your computer, tap the banner, and the phone pairs: no address or code to type\n• Playlists have Sync with Spotify, as on desktop: the playlist matches its Spotify namesake, in Spotify's order, with Undo\n\nBuilt from 2ed4df4."
         }
       ]
     }
