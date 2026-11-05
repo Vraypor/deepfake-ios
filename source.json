@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.47",
-      "versionDate": "2026-11-05T20:33:15.449Z",
-      "versionDescription": "The gothic, alive\n• Moonlight around the playing cover that breathes while it plays (with the visualizer on, with the bass), and an etched thorn vine that grows over the player with each song\n• A winged cross on Home's wave card, its wings and sparkles stirring while music plays; grain over the midnight\n• Taps spring back, a thin silver line glides along the tab bar, and the sparkles twinkle\n\nBuilt from a18be6a.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.47/Riff.ipa",
-      "size": 2986363,
+      "version": "0.1.49",
+      "versionDate": "2026-11-05T20:55:58.558Z",
+      "versionDescription": "Every song on an artist's page\n• Artist pages list every song of theirs, newest first, under All, Popular, Tracks and Albums tabs, without pressing Play discography\n• A tile view for the songs, like SoundCloud: the button at the end of the tabs. The playing song's line fills as it plays; tap it to jump there\n• Covers that don't load at first are tried again\n\nBuilt from 5350444.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.49/Riff.ipa",
+      "size": 2988269,
       "versions": [
+        {
+          "version": "0.1.49",
+          "buildVersion": "49",
+          "date": "2026-11-05T20:55:58.558Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.49/Riff.ipa",
+          "size": 2988269,
+          "localizedDescription": "Every song on an artist's page\n• Artist pages list every song of theirs, newest first, under All, Popular, Tracks and Albums tabs, without pressing Play discography\n• A tile view for the songs, like SoundCloud: the button at the end of the tabs. The playing song's line fills as it plays; tap it to jump there\n• Covers that don't load at first are tried again\n\nBuilt from 5350444."
+        },
         {
           "version": "0.1.47",
           "buildVersion": "47",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.36/Riff.ipa",
           "size": 1639204,
           "localizedDescription": "Share to Instagram story doesn't close the app\n• Opening Share to Instagram story closed deepfake while it read the song; it reads it another way now\n• Each step of making a story shows in Settings, About, Playback log, in case one goes wrong\n\nBuilt from c2a143b."
-        },
-        {
-          "version": "0.1.33",
-          "buildVersion": "33",
-          "date": "2026-10-29T05:59:26.364Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.33/Riff.ipa",
-          "size": 1638417,
-          "localizedDescription": "Share to Instagram story\n• A song's ••• menu has Share to Instagram story, as on desktop: pick 15 to 40 seconds of it, pick the look, and Share makes a video of the spinning record with that part playing\n• The share sheet opens with the video (Instagram, Save Video); the song's link is copied for Instagram's link sticker\n\nBuilt from 4704466."
         }
       ]
     }
