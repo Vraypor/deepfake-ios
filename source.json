@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.54",
-      "versionDate": "2026-11-16T20:31:44.342Z",
-      "versionDescription": "Tapping the lock screen player opens deepfake\n• The tap asked iOS for the app named in FlareStore's signature, which isn't installed; deepfake now names itself as the app to open\n\nBuilt from b394d6d.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.54/Riff.ipa",
-      "size": 4036474,
+      "version": "0.1.55",
+      "versionDate": "2026-11-16T20:35:50.389Z",
+      "versionDescription": "The lock screen player is back\n• 0.1.54's try at opening deepfake from the lock screen player took the player off the lock screen; it's undone\n\nBuilt from 0997114.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.55/Riff.ipa",
+      "size": 4035342,
       "versions": [
+        {
+          "version": "0.1.55",
+          "buildVersion": "55",
+          "date": "2026-11-16T20:35:50.389Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.55/Riff.ipa",
+          "size": 4035342,
+          "localizedDescription": "The lock screen player is back\n• 0.1.54's try at opening deepfake from the lock screen player took the player off the lock screen; it's undone\n\nBuilt from 0997114."
+        },
         {
           "version": "0.1.54",
           "buildVersion": "54",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.43/Riff.ipa",
           "size": 2864796,
           "localizedDescription": "Keeps up with your computer, and much more from it\n• Keeps up with your computer: while deepfake plays there, the player here shows its song and time. Play takes over from that spot, and next, previous and seeking control the computer. The computer does the same while this phone plays\n• Another try at opening deepfake from the lock screen player\n• Wavy progress bar, its knob, text size and Clean up video titles (Settings, Interface); word-by-word lyrics as Gradient or Words (Settings, Lyrics)\n• Lyrics cleaned up: no [Chorus] labels, dots where the music plays alone, backing vocals dimmed. Edit a song's lyrics, or time them by tapping along (the player's ••• menu)\n• History (Your Library), songs pinned to Home, Home in your order and Liked songs in recommendations (Settings, Home)\n• All nine sort orders in playlists, and Liked Songs first in Add to playlist\n• Import from a YouTube, YouTube Music, SoundCloud or Apple Music link (the import button in Your Library), and plain YouTube as a search source\n• A-B loop and speakers and headphones on the player; your own cover for a song; the computer's app icons (Settings, Interface)\n\nBuilt from 87bfd30."
-        },
-        {
-          "version": "0.1.40",
-          "buildVersion": "40",
-          "date": "2026-11-02T19:40:54.919Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.40/Riff.ipa",
-          "size": 1654167,
-          "localizedDescription": "Tapping the lock screen player opens deepfake\n• The player on the lock screen and in Control Center now belongs to deepfake's own player, so tapping it should bring you into the app\n\nBuilt from 05dddf8."
         }
       ]
     }
