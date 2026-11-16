@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.53",
-      "versionDate": "2026-11-16T20:19:14.445Z",
-      "versionDescription": "Play after a long pause\n• Play after a long pause no longer stays silent when the sound doesn't start the first time: it tries again\n• Playback log shows how this copy was signed, for the lock screen player that doesn't open the app\n\nBuilt from 32bf816.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.53/Riff.ipa",
-      "size": 4035299,
+      "version": "0.1.54",
+      "versionDate": "2026-11-16T20:31:44.342Z",
+      "versionDescription": "Tapping the lock screen player opens deepfake\n• The tap asked iOS for the app named in FlareStore's signature, which isn't installed; deepfake now names itself as the app to open\n\nBuilt from b394d6d.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.54/Riff.ipa",
+      "size": 4036474,
       "versions": [
+        {
+          "version": "0.1.54",
+          "buildVersion": "54",
+          "date": "2026-11-16T20:31:44.342Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.54/Riff.ipa",
+          "size": 4036474,
+          "localizedDescription": "Tapping the lock screen player opens deepfake\n• The tap asked iOS for the app named in FlareStore's signature, which isn't installed; deepfake now names itself as the app to open\n\nBuilt from b394d6d."
+        },
         {
           "version": "0.1.53",
           "buildVersion": "53",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.40/Riff.ipa",
           "size": 1654167,
           "localizedDescription": "Tapping the lock screen player opens deepfake\n• The player on the lock screen and in Control Center now belongs to deepfake's own player, so tapping it should bring you into the app\n\nBuilt from 05dddf8."
-        },
-        {
-          "version": "0.1.39",
-          "buildVersion": "39",
-          "date": "2026-11-02T19:26:11.463Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.39/Riff.ipa",
-          "size": 1652242,
-          "localizedDescription": "More word-by-word lyrics, fairer shuffle\n• Lyrics timed word by word for more songs: KuGou is tried when Apple Music has none\n• Shuffle with repeat on no longer starts the next round with a song that just played\n\nBuilt from 0a2270c."
         }
       ]
     }
