@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.52",
-      "versionDate": "2026-11-16T20:04:43.306Z",
-      "versionDescription": "The lock screen player stays\n• Another app playing for a moment no longer takes deepfake's player off the lock screen: it comes back while deepfake plays\n• If iOS won't let deepfake have its own lock screen player, it uses the shared one instead\n\nBuilt from 070ee1a.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.52/Riff.ipa",
-      "size": 4031800,
+      "version": "0.1.53",
+      "versionDate": "2026-11-16T20:19:14.445Z",
+      "versionDescription": "Play after a long pause\n• Play after a long pause no longer stays silent when the sound doesn't start the first time: it tries again\n• Playback log shows how this copy was signed, for the lock screen player that doesn't open the app\n\nBuilt from 32bf816.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.53/Riff.ipa",
+      "size": 4035299,
       "versions": [
+        {
+          "version": "0.1.53",
+          "buildVersion": "53",
+          "date": "2026-11-16T20:19:14.445Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.53/Riff.ipa",
+          "size": 4035299,
+          "localizedDescription": "Play after a long pause\n• Play after a long pause no longer stays silent when the sound doesn't start the first time: it tries again\n• Playback log shows how this copy was signed, for the lock screen player that doesn't open the app\n\nBuilt from 32bf816."
+        },
         {
           "version": "0.1.52",
           "buildVersion": "52",
@@ -98,14 +106,6 @@
           "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.39/Riff.ipa",
           "size": 1652242,
           "localizedDescription": "More word-by-word lyrics, fairer shuffle\n• Lyrics timed word by word for more songs: KuGou is tried when Apple Music has none\n• Shuffle with repeat on no longer starts the next round with a song that just played\n\nBuilt from 0a2270c."
-        },
-        {
-          "version": "0.1.38",
-          "buildVersion": "38",
-          "date": "2026-10-30T03:33:19.906Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.38/Riff.ipa",
-          "size": 1651140,
-          "localizedDescription": "The computer's new features\n• Lyrics timed word by word (from Apple Music): the line fills as each word is sung, on the lyrics screen and the card under the player\n• Romanized lyrics: Japanese, Korean, Chinese, Russian and other scripts spelled in Latin letters under each line (Settings, Lyrics)\n• Share lyrics as a picture: the picture button on the lyrics screen, tap up to 8 lines, then Share\n• Listen together, in the player's ••• menu: start a room or join one by its code, with a phone or a computer, and hear the same song at the same time\n• Headphone EQ (Settings, Sound): your headphones' correction from AutoEq, on top of your equalizer\n• On this day on Home, Play discography on artist pages, and Copy song.link in a song's menu\n• Search settings; search filters (Songs, Artists, Albums); Don't play this artist in a song's menu\n\nBuilt from 64807a0."
         }
       ]
     }
