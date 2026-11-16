@@ -8,7 +8,7 @@
   "apps": [
     {
       "name": "deepfake",
-      "bundleIdentifier": "com.vraypor.riff",
+      "bundleIdentifier": "app.blackberry9622.topaz6758",
       "developerName": "Vraypor",
       "subtitle": "Your music from YouTube Music, no ads",
       "localizedDescription": "deepfake for iPhone: playlists, Liked Songs, Smart Shuffle, My Wave, lyrics, stats and Wi-Fi sync with deepfake on your computer.",
@@ -21,91 +21,19 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.55",
-      "versionDate": "2026-11-16T20:35:50.389Z",
-      "versionDescription": "The lock screen player is back\n• 0.1.54's try at opening deepfake from the lock screen player took the player off the lock screen; it's undone\n\nBuilt from 0997114.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.55/Riff.ipa",
-      "size": 4035342,
+      "version": "0.1.56",
+      "versionDate": "2026-11-16T20:55:06.223Z",
+      "versionDescription": "Tapping the lock screen player opens deepfake\n• deepfake now has the app id FlareStore's certificate is made for, so the lock screen and Control Center player open it when tapped\n• It installs as a new app: sync with your computer first, pair again in the new one, then delete the old one\n\nBuilt from c265956.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.56/Riff.ipa",
+      "size": 4035586,
       "versions": [
         {
-          "version": "0.1.55",
-          "buildVersion": "55",
-          "date": "2026-11-16T20:35:50.389Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.55/Riff.ipa",
-          "size": 4035342,
-          "localizedDescription": "The lock screen player is back\n• 0.1.54's try at opening deepfake from the lock screen player took the player off the lock screen; it's undone\n\nBuilt from 0997114."
-        },
-        {
-          "version": "0.1.54",
-          "buildVersion": "54",
-          "date": "2026-11-16T20:31:44.342Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.54/Riff.ipa",
-          "size": 4036474,
-          "localizedDescription": "Tapping the lock screen player opens deepfake\n• The tap asked iOS for the app named in FlareStore's signature, which isn't installed; deepfake now names itself as the app to open\n\nBuilt from b394d6d."
-        },
-        {
-          "version": "0.1.53",
-          "buildVersion": "53",
-          "date": "2026-11-16T20:19:14.445Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.53/Riff.ipa",
-          "size": 4035299,
-          "localizedDescription": "Play after a long pause\n• Play after a long pause no longer stays silent when the sound doesn't start the first time: it tries again\n• Playback log shows how this copy was signed, for the lock screen player that doesn't open the app\n\nBuilt from 32bf816."
-        },
-        {
-          "version": "0.1.52",
-          "buildVersion": "52",
-          "date": "2026-11-16T20:04:43.306Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.52/Riff.ipa",
-          "size": 4031800,
-          "localizedDescription": "The lock screen player stays\n• Another app playing for a moment no longer takes deepfake's player off the lock screen: it comes back while deepfake plays\n• If iOS won't let deepfake have its own lock screen player, it uses the shared one instead\n\nBuilt from 070ee1a."
-        },
-        {
-          "version": "0.1.50",
-          "buildVersion": "50",
-          "date": "2026-11-16T03:00:31.130Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.50/Riff.ipa",
-          "size": 2995504,
-          "localizedDescription": "The computer's new look, on the phone\n• A Listen tab first: what's playing, My Wave, your records, what's up next and Jump back in. The tabs are now Listen, Discover, Search and Collection, with Stats on Listen\n• Playlists, Liked Songs and albums have a compact header: the cover beside the name. An imported playlist shows where it came from, and when\n• Credits in the player, under the lyrics: who wrote and produced the song, its album and where the sound comes from\n• Recommended songs under Liked Songs and every playlist; + adds one\n• Delisted albums, EPs and mixtapes on artist pages, which play like any album\n• Album, date added and plays under each song: Show album, date added and plays, in the sort menu\n• The song after next loads ahead too, so skipping twice starts at once; daily mixes leave out songs and artists you blocked\n\nBuilt from 7463f12."
-        },
-        {
-          "version": "0.1.49",
-          "buildVersion": "49",
-          "date": "2026-11-05T20:55:58.558Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.49/Riff.ipa",
-          "size": 2988269,
-          "localizedDescription": "Every song on an artist's page\n• Artist pages list every song of theirs, newest first, under All, Popular, Tracks and Albums tabs, without pressing Play discography\n• A tile view for the songs, like SoundCloud: the button at the end of the tabs. The playing song's line fills as it plays; tap it to jump there\n• Covers that don't load at first are tried again\n\nBuilt from 5350444."
-        },
-        {
-          "version": "0.1.47",
-          "buildVersion": "47",
-          "date": "2026-11-05T20:33:15.449Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.47/Riff.ipa",
-          "size": 2986363,
-          "localizedDescription": "The gothic, alive\n• Moonlight around the playing cover that breathes while it plays (with the visualizer on, with the bass), and an etched thorn vine that grows over the player with each song\n• A winged cross on Home's wave card, its wings and sparkles stirring while music plays; grain over the midnight\n• Taps spring back, a thin silver line glides along the tab bar, and the sparkles twinkle\n\nBuilt from a18be6a."
-        },
-        {
-          "version": "0.1.46",
-          "buildVersion": "46",
-          "date": "2026-11-05T20:22:46.037Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.46/Riff.ipa",
-          "size": 2985451,
-          "localizedDescription": "The midnight comes alive\n• The playing song's cover lights the player, the mini player, the wave card and the lyrics in its own color\n• A new song blooms in, buttons spring under your finger, a glowing line glides along the tab bar and the stars twinkle\n• With the visualizer on (Settings, Interface), the light breathes with the bass\n\nBuilt from 11437a1."
-        },
-        {
-          "version": "0.1.45",
-          "buildVersion": "45",
-          "date": "2026-11-03T07:45:54.342Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.45/Riff.ipa",
-          "size": 2878965,
-          "localizedDescription": "The rest of the computer: Spotify clean-up, visualizer, skip silence\n• Check liked songs against Spotify (the check button on Liked Songs): wrong matches, ones at another length, likes missing here and songs only liked here, each with Find, Another way, Remove or Keep; Swap censored copies for explicit songs\n• Songs a Spotify import or sync couldn't find: Find, then pick an upload. An artist picked under another name is remembered, and the computer's names come over too\n• Spotify songs are found as on the computer: by their recording code, explicit versions for explicit songs, plain YouTube when YouTube Music has nothing\n• Visualizer under the cover (Settings, Interface), Skip silence and Pitch (Settings, Playback)\n• Copy Spotify link, song.link from Spotify, and Save or send the file for downloaded songs, in a song's menu\n• Import listening history from Spotify's data download (Settings, Storage)\n• Pinned songs and the order of Home sync with the computer\n\nBuilt from dd357e6."
-        },
-        {
-          "version": "0.1.43",
-          "buildVersion": "43",
-          "date": "2026-11-03T06:48:56.309Z",
-          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.43/Riff.ipa",
-          "size": 2864796,
-          "localizedDescription": "Keeps up with your computer, and much more from it\n• Keeps up with your computer: while deepfake plays there, the player here shows its song and time. Play takes over from that spot, and next, previous and seeking control the computer. The computer does the same while this phone plays\n• Another try at opening deepfake from the lock screen player\n• Wavy progress bar, its knob, text size and Clean up video titles (Settings, Interface); word-by-word lyrics as Gradient or Words (Settings, Lyrics)\n• Lyrics cleaned up: no [Chorus] labels, dots where the music plays alone, backing vocals dimmed. Edit a song's lyrics, or time them by tapping along (the player's ••• menu)\n• History (Your Library), songs pinned to Home, Home in your order and Liked songs in recommendations (Settings, Home)\n• All nine sort orders in playlists, and Liked Songs first in Add to playlist\n• Import from a YouTube, YouTube Music, SoundCloud or Apple Music link (the import button in Your Library), and plain YouTube as a search source\n• A-B loop and speakers and headphones on the player; your own cover for a song; the computer's app icons (Settings, Interface)\n\nBuilt from 87bfd30."
+          "version": "0.1.56",
+          "buildVersion": "56",
+          "date": "2026-11-16T20:55:06.223Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.56/Riff.ipa",
+          "size": 4035586,
+          "localizedDescription": "Tapping the lock screen player opens deepfake\n• deepfake now has the app id FlareStore's certificate is made for, so the lock screen and Control Center player open it when tapped\n• It installs as a new app: sync with your computer first, pair again in the new one, then delete the old one\n\nBuilt from c265956."
         }
       ]
     }
