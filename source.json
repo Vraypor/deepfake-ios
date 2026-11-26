@@ -21,12 +21,20 @@
           "NSLocalNetworkUsageDescription": "Riff syncs your library with Riff on your computer over Wi-Fi."
         }
       },
-      "version": "0.1.60",
-      "versionDate": "2026-11-25T20:24:24.111Z",
-      "versionDescription": "A seek bar that goes where you put it\n• Touch anywhere on the song bar to jump there, then drag; you no longer have to catch the thin knob\n• A drag that drifts up or down keeps seeking instead of scrolling the player\n• The bar stays where you let go instead of jumping back for a moment\n\nBuilt from 9883fd0.",
-      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.60/Riff.ipa",
-      "size": 4044225,
+      "version": "0.1.61",
+      "versionDate": "2026-11-26T18:50:24.737Z",
+      "versionDescription": "Control Center back from Instagram\n• Your Instagram from FlareStore shares deepfake's certificate, so to iOS it's the same app: its videos could take Control Center and the lock screen as \"deepfake\" with no song, and play went to Instagram\n• When Instagram stops playing sound, and whenever you open deepfake, deepfake now takes Control Center back with your song, even while paused\n• This is a test: Settings, About, Playback log shows whether iOS allowed it\n\nBuilt from 8fb5dce.",
+      "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.61/Riff.ipa",
+      "size": 4046109,
       "versions": [
+        {
+          "version": "0.1.61",
+          "buildVersion": "61",
+          "date": "2026-11-26T18:50:24.737Z",
+          "downloadURL": "https://github.com/Vraypor/deepfake-ios/releases/download/v0.1.61/Riff.ipa",
+          "size": 4046109,
+          "localizedDescription": "Control Center back from Instagram\n• Your Instagram from FlareStore shares deepfake's certificate, so to iOS it's the same app: its videos could take Control Center and the lock screen as \"deepfake\" with no song, and play went to Instagram\n• When Instagram stops playing sound, and whenever you open deepfake, deepfake now takes Control Center back with your song, even while paused\n• This is a test: Settings, About, Playback log shows whether iOS allowed it\n\nBuilt from 8fb5dce."
+        },
         {
           "version": "0.1.60",
           "buildVersion": "60",
